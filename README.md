@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anik Ahmmed
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning C++ programming language. 
+- 🌱 I’m currently learning different algorithms. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
