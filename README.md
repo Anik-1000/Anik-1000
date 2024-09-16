@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anik Ahmmed
-- 👀 I’m interested in C++
+- 👀 I’m interested in C++, Java, Python.
 - 🌱 I’m currently learning different algorithms. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
