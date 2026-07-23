@@ -2,7 +2,8 @@
 - 👀 I’m interested in C++, Java, Python.
 - 🌱 I’m currently learning different algorithms. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 <a href = "anik.ahmmed.1000@gmail.com"> E-mail </a>
+- 
 
 <!---
 Anik-1000/Anik-1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
